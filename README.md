@@ -52,10 +52,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavishkaRash&theme=radical" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishkaRash&layout=compact&theme=radical" />
-  <br/><br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kavishkaRash.kavishkaRash" />
 </div>
 
 ---
