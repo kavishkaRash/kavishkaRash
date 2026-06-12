@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi, I'm Kavishka Rashen </h1>
+  <h3>Full Stack & DevOps Engineer | MERN | Docker | Jenkins | AWS EC2 | CI/CD</h3>
+</div>
 
-<!--
-**kavishkaRash/kavishkaRash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###  About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Currently developing a **real-world MERN web app** for a visa consultancy client
+-  Built **two fully automated CI/CD pipelines** using Jenkins, Docker, GitHub Actions & AWS EC2
+-  Currently learning **Kubernetes, Linux Administration & AWS Cloud**
+-  Pursuing **HND in Computing** at ESOFT Metro Campus
+-  Based in **Colombo, Sri Lanka**
+
+---
+
+###  Tech Stack
+
+**Full Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+###  Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [CI/CD Pipeline — Jenkins + Docker](https://github.com/kavishkaRash/github-docker-and-genkins-ci-cd-pipeline) | Fully automated pipeline — GitHub push → Jenkins → Docker → AWS EC2 | Jenkins, Docker, AWS |
+| [CI/CD Pipeline — GitHub Actions](https://github.com/kavishkaRash/Node-Js-RestAPI-EC2) | Auto-deploy Node.js REST API to AWS EC2 on every push | GitHub Actions, Nginx, PM2 |
+| [LuxGlows E-Commerce](https://github.com/kavishkaRash/luxglow-ecommerce-frontend) | Full-stack MERN e-commerce platform | React, Node.js, MongoDB |
+| [Checkmate Admission](https://github.com/kavishkaRash/Checkmate-Admission-Frontend) | Real client — Visa consultancy web app (In Progress) | MERN Stack |
+
+---
+
+###  GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavishkaRash&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishkaRash&layout=compact&theme=radical" />
+</div>
+
+---
+
+###  Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavishka-rashen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kavishka-portfolio.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavishkaRash)
