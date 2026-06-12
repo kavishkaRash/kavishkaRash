@@ -1,11 +1,13 @@
 <div align="center">
   <h1>Hi, I'm Kavishka Rashen </h1>
   <h3>Full Stack & DevOps Engineer | MERN | Docker | Jenkins | AWS EC2 | CI/CD</h3>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&width=500&lines=Full+Stack+%26+DevOps+Engineer;MERN+%7C+Docker+%7C+Jenkins+%7C+AWS+EC2;Building+Automated+CI%2FCD+Pipelines;Real+World+Cloud+Deployments+%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
 
 ---
 
-###  About Me
+### About Me
 
 -  Currently developing a **real-world MERN web app** for a visa consultancy client
 -  Built **two fully automated CI/CD pipelines** using Jenkins, Docker, GitHub Actions & AWS EC2
@@ -49,8 +51,11 @@
 ###  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavishkaRash&show_icons=true&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavishkaRash&theme=radical" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishkaRash&layout=compact&theme=radical" />
+  <br/><br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kavishkaRash.kavishkaRash" />
 </div>
 
 ---
